@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Patagonia (Bergfreunde)",
+        "url": "https://www.bergfreunde.eu/brands/patagonia/?searchparam=Patagonia",
+        "pagination_pattern": "https://www.bergfreunde.eu/brands/patagonia/{page}/?searchparam=Patagonia",
+        "brand": "Patagonia",
+        "min_discount": 30,
+        "currency": "EUR"
+    },
+    {
+        "name": "Patagonia (Hardloop)",
+        "url": "https://www.hardloop.at/marken/1491-patagonia",
+        "pagination_pattern": "https://www.hardloop.at/marken/1491-patagonia?p={page}",
+        "brand": "Patagonia",
+        "min_discount": 30,
+        "currency": "EUR"
+    },
+    {
+        "name": "Patagonia (Snowleader)",
+        "url": "https://www.snowleader.com/patagonia.html",
+        "pagination_pattern": "https://www.snowleader.com/patagonia.html?p={page}",
+        "brand": "Patagonia",
+        "min_discount": 30,
+        "currency": "EUR"
+    },
+    {
+        "name": "Patagonia (official site)",
+        "url": "https://eu.patagonia.com/at/de/shop/web-specials",
+        "pagination_pattern": "https://eu.patagonia.com/at/de/shop/web-specials?p={page}",
+        "brand": "Patagonia",
+        "min_discount": 30,
+        "currency": "EUR"
+    }
+
+]

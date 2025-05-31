@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# SQLite DB
+db/*.db
+
+# Configs with API keys or credentials
+config.py
+*.env
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Output files
+*.csv
+*.log
+
+# Email attachments
+attachments/
+
+# Secrets
+*.pem
+*.key
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
